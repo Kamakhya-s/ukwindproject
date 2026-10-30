@@ -2,9 +2,8 @@
 
 Web application built for a UK energy utility's Day-Ahead wholesale market trading team. It presents the latest available national wind generation forecasts (`WINDFOR`) prior to Day-Ahead market gate closure and quantitatively evaluates forecast error against actual wind generation (`FUELHH` - `WIND`) for purchase decisions made in **January 2026**.
 
-## Live App & Demo Links
-- **Deployed Application (Vercel):** `[PASTE_YOUR_VERCEL_URL_HERE]`
-- **Video Walkthrough (Unlisted YouTube):** `[PASTE_YOUR_YOUTUBE_URL_HERE]`
+## Live App 
+- **Deployed Application (Vercel):** `https://ukwindproject.vercel.app/`
 
 ## AI Tools Disclosure
 AI tools (Claude / Gemini / Cursor) were used to assist with boilerplate code generation, chart component styling, and documentation formatting. All domain logic, Elexon BMRS API integration, and quantitative accuracy metrics were reviewed and validated.
